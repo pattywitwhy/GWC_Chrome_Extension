@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "GirlsWhoCode Chrome Extension",
   "version": "0.1",
-  "description": "Bookmarks to help you",
+  "description": "Bookmarks to help during GWC",
   "icons": {
     "128": "icon.png"
   },
