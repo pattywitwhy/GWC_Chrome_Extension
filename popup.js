@@ -11,3 +11,5 @@ function hq() {
 document.querySelector('.namely').addEventListener('click', namely);
 document.querySelector('.GWCportal').addEventListener('click', GWCportal);
 document.querySelector('.hq').addEventListener('click', hq);
+
+
